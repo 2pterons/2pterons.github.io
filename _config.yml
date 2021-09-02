@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 title                    : "Hello Earth"
-title_separator          : "지구관찰일기"
+title_separator          : "Hello Earth"
 subtitle                 : "Version 1.0"
 name                     : "관찰자"
 description              : "파이썬으로 배우는 자연어처리"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "pterons/pterons.github.com"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "지구관찰일기"
+masthead_title           : "Hello Earth"
 # breadcrumbs            : true
 words_per_minute         : 200
 comments:
